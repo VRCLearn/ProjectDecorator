@@ -1,0 +1,28 @@
+{
+    "name": "com.vrclearn.projectdecorator",
+    "displayName": "ProjectDecorator",
+    "version": "0.1.0",
+    "unity": "2022.3",
+    "description": "Lightweight folder decorations and asset favorites for the Unity Project window.",
+    "keywords": [
+        "editor",
+        "project",
+        "folders",
+        "favorites"
+    ],
+    "license": "MIT",
+    "author": {
+        "name": "VRCLearn",
+        "url": "https://github.com/VRCLearn"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/VRCLearn/ProjectDecorator.git"
+    },
+    "documentationUrl": "https://github.com/VRCLearn/ProjectDecorator#readme",
+    "bugs": {
+        "url": "https://github.com/VRCLearn/ProjectDecorator/issues"
+    },
+    "dependencies": {},
+    "vpmDependencies": {}
+}
