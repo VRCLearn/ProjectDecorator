@@ -1,5 +1,6 @@
 MIT License
 
+Copyright (c) 2020 - 2024 Damian Slocombe
 Copyright (c) 2026 VRCLearn
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
