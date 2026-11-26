@@ -4,7 +4,8 @@
     "url": "https://vrclearn.github.io/ProjectDecorator/index.json",
     "author": {
         "url": "https://github.com/VRCLearn",
-        "name": "VRCLearn"
+        "name": "VRCLearn",
+        "email": "vpm@vrclearn.com"
     },
     "description": "Customize Unity Project folders with colors, corner badges and tree regions, and keep personal asset favorites. By VRCLearn.",
     "bannerUrl": "vrclearn-banner.png",
