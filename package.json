@@ -10,7 +10,7 @@
         "folders",
         "favorites"
     ],
-    "license": "MIT",
+    "license": "MIT OR Apache-2.0",
     "author": {
         "name": "VRCLearn",
         "url": "https://github.com/VRCLearn"
