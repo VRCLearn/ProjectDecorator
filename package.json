@@ -13,7 +13,8 @@
     "license": "MIT OR Apache-2.0",
     "author": {
         "name": "VRCLearn",
-        "url": "https://github.com/VRCLearn"
+        "url": "https://github.com/VRCLearn",
+        "email": "185041488+CQMHV@users.noreply.github.com"
     },
     "repository": {
         "type": "git",
@@ -24,5 +25,11 @@
         "url": "https://github.com/VRCLearn/ProjectDecorator/issues"
     },
     "dependencies": {},
-    "vpmDependencies": {}
+    "vpmDependencies": {},
+    "licensesUrl": "https://github.com/VRCLearn/ProjectDecorator/blob/main/LICENSE.md",
+    "changelogUrl": "https://github.com/VRCLearn/ProjectDecorator/blob/main/CHANGELOG.md",
+    "url": "https://github.com/VRCLearn/ProjectDecorator/releases/download/0.1.0/com.vrclearn.projectdecorator-0.1.0.zip",
+    "legacyFolders": {
+        "Assets/VRCLearn/ProjectDecorator": "cdd6638bd5e95314bba45469ca9c0bb2"
+    }
 }

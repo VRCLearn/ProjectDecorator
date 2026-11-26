@@ -12,3 +12,5 @@ Output~/
 *.user
 .DS_Store
 Thumbs.db
+dist/
+__pycache__/
