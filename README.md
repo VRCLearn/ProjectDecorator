@@ -4,7 +4,11 @@ Lightweight Unity Project window enhancements by VRCLearn. ProjectDecorator uses
 
 ## Requirements and installation
 
-Unity **2022.3 or newer**. In Package Manager, choose **Add package from git URL** and enter:
+Unity **2022.3 or newer**.
+
+- **VPM (VCC / ALCOMD):** Open the [installation page](https://vrclearn.github.io/ProjectDecorator/), add the repository, and install **ProjectDecorator**. The repository URL is `https://vrclearn.github.io/ProjectDecorator/index.json`.
+- **UPM:** In Package Manager, choose **Add package from git URL** and enter the following URL. Append `#0.1.0` to pin the published version.
+- **UnityPackage:** Import the `.unitypackage` from [Releases](https://github.com/VRCLearn/ProjectDecorator/releases). It installs under `Assets/VRCLearn/ProjectDecorator`.
 
 ```
 https://github.com/VRCLearn/ProjectDecorator.git

@@ -1,0 +1,22 @@
+{
+    "name": "ProjectDecorator | VRCLearn",
+    "id": "io.github.vrclearn.projectdecorator",
+    "url": "https://vrclearn.github.io/ProjectDecorator/index.json",
+    "author": {
+        "url": "https://github.com/VRCLearn",
+        "name": "VRCLearn"
+    },
+    "description": "Customize Unity Project folders with colors, corner badges and tree regions, and keep personal asset favorites. By VRCLearn.",
+    "bannerUrl": "vrclearn-banner.png",
+    "infoLink": {
+        "url": "https://github.com/VRCLearn/ProjectDecorator",
+        "text": "Source and documentation"
+    },
+    "repository": "VRCLearn/ProjectDecorator",
+    "packages": {
+        "com.vrclearn.projectdecorator": "VRCLearn/ProjectDecorator"
+    },
+    "githubRepos": [
+        "VRCLearn/ProjectDecorator"
+    ]
+}
